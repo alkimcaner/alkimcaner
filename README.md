@@ -2,6 +2,8 @@
 
 ### Front-end Developer
 
+🌐 Check out my [personal website!](http://fl4wn.vercel.app)
+
 📫 Reach me at **alkimcanersoydan@gmail.com**
 
 ## 🌐 Socials:
