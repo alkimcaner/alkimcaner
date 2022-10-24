@@ -2,7 +2,7 @@
 
 ### Front-end Developer
 
-🌐 Check out my [personal website](https://www.alkimcaner.com/)
+🌐 [alkimcaner.com](https://www.alkimcaner.com/)
 
 📫 Reach me at **alkimcanersoydan@gmail.com**
 
