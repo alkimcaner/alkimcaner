@@ -1,8 +1,8 @@
 # Hi, I'm Alkım Caner 👋
 
-### Front-end Developer
+### Frontend Developer
 
-🌐 [alkimcaner.com](https://www.alkimcaner.com/)
+🌐 Check out my [Website](https://www.alkimcaner.com/)
 
 📫 Reach me at **alkimcanersoydan@gmail.com**
 
