@@ -1,6 +1,6 @@
 # Hi, I'm Alkım Caner 👋
 
-### Frontend Developer
+### Front-End Developer
 
 🌐 Check out my [Website](https://www.alkimcaner.com/)
 
