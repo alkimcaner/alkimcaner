@@ -2,8 +2,6 @@
 
 ### Front-End Developer
 
-🌐 Check out my portfolio at [alkimcaner.com](https://www.alkimcaner.com/)
-
 📫 Reach me at **alkimcanersoydan@gmail.com**
 
 ## Socials
