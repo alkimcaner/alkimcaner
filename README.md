@@ -1,4 +1,4 @@
-## Front-End Developer & Game Dev Enthusiast
+## Front-End Developer
 
 ### 👋 Hello, World!
 
@@ -16,7 +16,7 @@ I'm Alkım. I'm a passionate front-end developer with a love for creating intuit
 - C#
 - Unity
 
-### 🎮 I Also Make Games!
+### 🎮 I Also Make Games
 
 When I'm not coding for the web, I enjoy delving into game development as a hobby. I have experience with Unity, and I love participating in game jams. Game development allows me to unleash my creativity and problem-solving skills in a fun and challenging environment.
 
